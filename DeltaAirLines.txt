@@ -1,0 +1,6 @@
+# Phone Screening Round
+1. How to ensure thread safety in JAVA.
+2. Explain the Java Memory Model.
+3. How to ensure fault tolerance for the application.
+4. Difference between Heap and Stack Memory.
+5. Walkthrough Resume.
