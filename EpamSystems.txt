@@ -1,0 +1,16 @@
+# Coding Assessment
+1. Given an integer array arr of length n and an integer k, return a new array res of length n such that:
+For each index i:
+If i < k, then 
+res[i] = arr[0] + arr[1] + ... + arr[i] (sum of all elements from 0 to i)
+Otherwise (i >= k),
+res[i] = arr[i-k+1] + arr[i-k+2] + ... + arr[i]
+Input: int[] array -> {1, 2, 3, 4, 5, 6}, int k = 3
+Output: int[] array -> {1, 3, 6, 9, 12, 15}
+2. Given an array of string values, return the second-largest length using Java streams only.
+Input -String[] array= {“abc”, “aabdc”, “abdf”, “aabdcdef”, “aabced”}
+Output - 6 
+
+# Technical Interview
+1. https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+2. Given an ArrayList, find the 4th Longest string length using Java streams.
