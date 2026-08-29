@@ -11,9 +11,10 @@ Output => 3
 Two DSA problems with the interviewer.
 1. StationMap : - You are given a map of a city's subway system. The system is represented as a collection of stations and the direct connections between them. 
 You need to implement a function that calculates the shortest path distance (the minimum number of station hops) required to travel from a designated starting station to a destination station.
-Input: station_map: A hashmap/dictionary where the key is a String representing a station's name, and the value is a List of Strings containing all its immediately adjacent neighboring stations.
+Input: station_map: A hashmap/dictionary where the key is a String representing a station's name, and the value is a List of Strings containing all its immediate neighbors.
 start_station: A String representing the departure station.
 end_station: A String representing the final destination station.
 Output: Return an Integer representing the minimum number of hops between the two stations.
 Solution: Solve using BFS to cover each neighbour. Use a Queue data structure to keep track of the station's neighbours, and a visited set to keep track of already visited stations.   
-2. Finding the second smallest in an array. https://www.geeksforgeeks.org/problems/find-the-smallest-and-second-smallest-element-in-an-array3226/1
+2. Finding the second smallest in an array. 
+https://www.geeksforgeeks.org/problems/find-the-smallest-and-second-smallest-element-in-an-array3226/1
