@@ -1,0 +1,13 @@
+Senior Software Engineer - Cloud & Data Platforms 
+Mettle Assessment -- 65 minutes, 8 sections
+There were a total of 37 questions: 36 MCQs from Java, Microservices, Spring, Spark, AWS, IaC, and REST APIs
+Coding --
+1. Given a series problem, the problem requires you to find a series in which the sum of digits of each term is equal to 
+given integer X and return the Nth Term of the series mod 10^9+7.
+
+e.g int n = 4, int X = 10 
+output = 46
+int n = 3, int x = 5
+output = 23
+
+Note: There was no information on the constraints on n and X values, but the output asked to return after mod, so the values could be pretty large.
