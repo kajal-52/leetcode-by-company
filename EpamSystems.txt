@@ -1,3 +1,4 @@
+Senior Software Engineer (Java and SpringBoot)
 # Coding Assessment
 1. Given an integer array arr of length n and an integer k, return a new array res of length n such that:
 For each index i:
