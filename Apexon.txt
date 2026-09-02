@@ -1,0 +1,15 @@
+Java Application Support Engineer
+-------------------------------------------------
+Round 1 - Online Interview
+Coding question
+1. Most frequent word in a string array.
+--------------------------------------------------
+Round 2 - Online Assessment
+Two SQL questions
+Coding question - Two Sum variant
+--------------------------------------------------
+Round 3 - Online Assessment 
+MCQs - Java, Microservices, REST APIs, Distributed systems, Spring Boot
+2 Coding Questions 
+1. Two Sum
+2. Don't remember exactly
