@@ -1,0 +1,10 @@
+Senior Software Engineer(JAVA with AWS)
+#Codility Assessment
+15 MCQs based on JAVA(output-based questions: multiple threads, synchronized blocks, Collections), AWS Storage, IAM, VPC, Spring Framework 
+Coding Question - 
+1. https://leetcode.com/problems/subarray-sum-equals-k/description/
+
+Technical Interview 1 
+Java/Spring Questions
+Find the second minimum in a given integer array.
+Discuss the approach for the coding question from the first round.
