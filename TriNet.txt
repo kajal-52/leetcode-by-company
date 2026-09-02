@@ -4,4 +4,4 @@
 
 # System Design Round
 Asked to design my current project.
-
+I work for a fintech company in the middleware team, developing enterprise applications allowing different clients to interact with the data.
