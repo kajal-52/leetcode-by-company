@@ -4,3 +4,18 @@
 3. How to ensure fault tolerance for the application.
 4. Difference between Heap and Stack Memory.
 5. Walkthrough Resume.
+
+-----------------------L1 Round--------------------
+Coding Problems 
+Write a function in Python, Java, or Node.js that finds the index of the first non-repeating character in a given string. If no such character exists, return -1. 
+Input: "swiss"
+LeetCode - https://leetcode.com/problems/first-unique-character-in-a-string/description/
+Solution - Solved using a HashMap 
+Write a function in Python, Java, or Node.js to detect if a linked list has a cycle, and if so, return the node where the cycle begins; otherwise, return null.
+LeetCode - https://leetcode.com/problems/linked-list-cycle/description/
+Solution - Solved using fast and slow pointers
+
+1. Your microservices are currently using an on-premises database; you want to migrate to an AWS database. Which service will you use, and explain the approach. 
+2. Your Spring Boot application is currently taking a lot of time at startup; what could be the reasons and resolution?
+3. Which AWS service helps with managing secrets for the API/services? How would you configure it?
+4. A project you worked on recently, the challenges you faced, and your approach to overcoming them.
