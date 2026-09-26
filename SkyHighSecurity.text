@@ -1,0 +1,7 @@
+Senior Software Engineer
+L1 - Coding 
+Given a string s consisting only of digits, return all possible valid IPv4 address 
+combinations that can be formed from it. A valid IP address consists of four numbers (0–255) separated by dots.
+
+String s= "1234567" 
+Output = ["1.23.45.67", "12.3.45.67, "12.34.5.67", "12.34.56.7, "123.4.5.67, "123.4.56.7", "123.45.6.7"]
