@@ -1,0 +1,18 @@
+Java Developer (Contract)
+
+L1- Coding round
+1. Write pseudocode to implement login in a multithreaded system. Also implement a maximum of 3 invalid login attempts, and then lock the system. 
+Allow login again after 15 minutes.
+
+Discuss the approach and elements utilized to design the solution.
+
+2. An easy array question and pseudocode.
+Discuss time and space complexity.
+
+L2 - Technical round
+1. Explain Kafka Architecture
+2. Explain HashMap internal working
+3. Difference between Synchronized and ReentrantLock().
+4. Questions about previous experience.
+5. Explain CQRS, if you have worked with it.
+6. Coding question: Find the first unique character in a String.
