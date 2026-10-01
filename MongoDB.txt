@@ -1,0 +1,21 @@
+Role: Application Engineer 
+
+Phone Screening with Recruiter: 30 Minutes
+Basic questions about role compatibility and previous experience to align with the requirements.
+
+Round 1 - Technical compatibility (CoderPad round) - 6 minutes
+Coding question - 
+A window is balanced if it contains the same number of rises and drops. Only comparisons between two days that are both inside the window count.
+Return the length (in days) of the longest balanced window.
+Constraints: 1 ≤ n ≤ 10^5, -100 ≤ temps[i] ≤ 100
+Example 1:  temps  = [5, 7, 7, 4, 6, 3, 3, 8], output = 7
+Days 0–6 are [5, 7, 7, 4, 6, 3, 3]. The rises are 5→7 and 4→6, the drops are 7→4 and 6→3, and the rest are flats. That's 2 rises and 2 drops, so the window is balanced. The full array has 3 rises and 2 drops, so it isn't.
+Example 2:  temps  = [1, 2, 3, 4], output = 1
+Every multi-day window has more rises than drops. A single day has no comparisons, so 0 = 0 and it's trivially balanced.
+Example 3: temps  = [3, 3, 3], output = 3
+All flats means 0 rises and 0 drops.
+
+Design question: 
+A company runs its core business on a legacy Oracle database with about 600 tables. They are building new services on MongoDB and need the data to be available there in near real time. Design a system that continuously syncs data from Oracle to MongoDB.
+Roughly half the tables are large and see constant writes. The rest are small configuration tables with very little traffic.
+The Oracle system must keep running as the source of truth, and the sync must not hurt its performance. Walk me through your design.
