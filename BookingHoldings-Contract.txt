@@ -1,0 +1,17 @@
+Senior Software Engineer -1 (Contract position)
+
+Pair Programming on HackerRank: 
+1. Given an upcoming festival, Booking.com is offering a discount on hotel room reservations.
+You are given each day and the available room prices.
+Day 0: 200
+Day 1: 400, 500, 500
+Day 2: 300 
+Also, promotions are given on a first-come, first-served basis
+[2,0.03],[10,0.05] 
+and an int duration value: 2 days
+
+Return the maximum discount available.
+
+Hiring Manager round: 
+
+1. Discussion around previous experience, resume, and tackling challenges. Less technical, mainly behavioural.
