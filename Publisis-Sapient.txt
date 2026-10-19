@@ -1,0 +1,11 @@
+Senior Associate Platform - Java microservices
+
+Round 1 - Codility Assessment 
+7 sections: Java, Spring Boot, Microservices, AWS, Apache Kafka, DSA 
+Coding Question- 
+1. Given a string, return the count of characters to remove to make it an EVEN word 
+EVEN word is one in which all characters appear an even number of times.
+
+abac - remove b and c to make it an even word.
+return 2
+addacc= return 0
