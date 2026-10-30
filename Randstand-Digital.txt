@@ -1,0 +1,11 @@
+- Torc AI Assessment- 45 minutes
+1. Incomplete Kafka Consumer Service and Controller class to get the total distance covered, total fuel, and fuel efficiency using the Vehicle 
+Id.
+Complete the controller class GET method 
+Consumer: implement the consume method with the Topic, and return a Map or null if not found.
+2. Answer the Kafka event ordering and changes due to the introduction of multiple consumer groups.
+3. Present the solution in terms of concurrency and a multithreaded environment.
+
+Internal tool to help with Syntax integrated.
+
+
