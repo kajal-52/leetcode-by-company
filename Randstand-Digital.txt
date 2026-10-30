@@ -1,3 +1,4 @@
+------ Java Developer -----------------
 - Torc AI Assessment- 45 minutes
 1. Incomplete Kafka Consumer Service and Controller class to get the total distance covered, total fuel, and fuel efficiency using the Vehicle 
 Id.
