@@ -1,0 +1,12 @@
+---------------Codility Assessment--------------
+
+------------- Technical Round L1 -----------------
+1. Given an array and a target integer, return the closest number to the target.
+https://www.geeksforgeeks.org/java/java-program-to-find-closest-number-in-array/
+
+2. Use three threads to print numbers in order 1- 10
+Output 
+T1- 1
+T2- 2
+T3- 3
+T4- 4 and so on
