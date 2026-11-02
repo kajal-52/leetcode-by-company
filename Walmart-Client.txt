@@ -1,0 +1,21 @@
+Java Backend Engineer
+Round 1 - Torc AI Assessment (45 Minutes)
+You are given a partially implemented Spring Boot application for a Vehicle Fleet Management System. 
+Vehicles continuously publish telemetry data (distance travelled and fuel consumed) to a Kafka topic. 
+The Kafka Producer is already implemented. Your task is to complete the Consumer and the REST Controller so 
+the system can report aggregated metrics per vehicle. Ignore non-positive distance and fuel. 
+
+Round 2 -  (45 Minutes)
+1. Project and Spring Boot, Kafka 
+2. Code: Two Sum problem; discuss updating the solution to three sum using the same logic. Discuss approach and complexity. 
+3. Design a system for e-commerce to handle a large number of transactions with availability, low latency, and idempotency in case of payment failures.
+4. @Transactional Annotation used on a method, but rollback is not happening in case of failure, explain.
+5. Resilience4j and CircuitBreaker, Bulkhead Pattern.
+6. Apache Kafka maintaining the order of events.
+7. Partitions in Kafka and multiple writes to partitions.
+8. How to handle uploading a large dataset to the DB if failures occur.
+9. Load balancer vs. rate Limiter
+10. N+1 Query Problem: explain and solution.
+11. Given a code block, identify the issue and resolution. 
+12. Given an increment-and-get operation using a primitive integer, simultaneously accessed by two threads, the resolution is to use AtomicInteger. 
+13. Explain the Saga Pattern and when to use an orchestrator? 
