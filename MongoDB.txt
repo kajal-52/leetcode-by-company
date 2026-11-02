@@ -4,7 +4,7 @@ Phone Screening with Recruiter: 30 Minutes
 Basic questions about role compatibility and previous experience to align with the requirements.
 
 Round 1 - Technical compatibility (CoderPad round) - 6 minutes
-Coding question - 
+Coding question - (Monotonic stack problem)
 A window is balanced if it contains the same number of rises and drops. Only comparisons between two days that are both inside the window count.
 Return the length (in days) of the longest balanced window.
 Constraints: 1 ≤ n ≤ 10^5, -100 ≤ temps[i] ≤ 100
