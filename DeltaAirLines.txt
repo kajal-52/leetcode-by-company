@@ -1,11 +1,11 @@
-# Phone Screening Round
+# Phone Screening Round. (15-20 Minutes)
 1. How to ensure thread safety in JAVA.
 2. Explain the Java Memory Model.
 3. How to ensure fault tolerance for the application.
 4. Difference between Heap and Stack Memory.
 5. Walkthrough Resume.
 
------------------------L1 Round--------------------
+-----------------------L1 Round-------------------- (30 minutes)
 Coding Problems 
 Write a function in Python, Java, or Node.js that finds the index of the first non-repeating character in a given string. If no such character exists, return -1. 
 Input: "swiss"
@@ -18,4 +18,46 @@ Solution - Solved using fast and slow pointers
 1. Your microservices are currently using an on-premises database; you want to migrate to an AWS database. Which service will you use, and explain the approach. 
 2. Your Spring Boot application is currently taking a lot of time at startup; what could be the reasons and resolution?
 3. Which AWS service helps with managing secrets for the API/services? How would you configure it?
-4. A project you worked on recently, the challenges you faced, and your approach to overcoming them.
+4. A project you worked on recently: the challenges you faced, and your approach to overcoming them.
+
+------------ L2 Round  ----------------------------(45 minutes)
+1. Project discussion.
+2. Current project design.
+
+------------------ AWS questions
+1. Types of S3 Buckets
+2. How to retrieve the latest version of a file from S3.
+3. Which services have I worked with in AWS?
+4. Amazon Route 53
+5. AWS Secrets Manager.
+6. AWS CodePipeline.
+7. A few scenario-based questions
+4. Polling in Kafka 
+
+----------------- Messaging queues:
+1. Polling in Kafka
+2. Difference between Kafka and RabbitMQ; how to decide which one to use?
+3. If there is a consumer pod increase, how will topics be redistributed?
+4. How to consume previous messages in Apache Kafka?
+5. RabbitMQ API use case
+
+------------ Spring:
+@Transactional annotation
+Which annotations am I using or aware of?
+How to set a global exception for an API(@ExcpetionHandler Annotation)?
+Explain the circuit breaker pattern?
+Current Project - 
+Explain project APIs and the tech stack tools. Explain the projects mentioned.
+How is the deployment handled? Components for CI/CD.
+5. Coding problem - https://leetcode.com/problems/shortest-palindrome/description/
+2. Design a Ludo game: low-level  design
+
+------------------------- L3 Round ------------- (20 Minutes)
+Hiring Manager 
+Explain the current project and role.
+Explain Team structure 
+If following Agile, processes
+Questions related to AWS services and cost optimization?
+Rate Limiter: who decides the rate limit in the current project
+Reason for change?
+Discussion around what Delta Airlines does and related to role and structure in the team, and what they are looking for?
