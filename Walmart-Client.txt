@@ -9,9 +9,9 @@ Round 2 -  (45 Minutes)
 1. Project and Spring Boot, Kafka 
 2. Code: Two Sum problem; discuss updating the solution to three sum using the same logic. Discuss approach and complexity. 
 3. Design a system for e-commerce to handle a large number of transactions with availability, low latency, and idempotency in case of payment failures.
-4. @Transactional Annotation used on a method, but rollback is not happening in case of failure, explain.
+4. The @Transactional annotation is used on a method, but rollback is not happening in case of failure; explain.
 5. Resilience4j and CircuitBreaker, Bulkhead Pattern.
-6. Apache Kafka maintaining the order of events.
+6. Apache Kafka: maintaining the order of events.
 7. Partitions in Kafka and multiple writes to partitions.
 8. How to handle uploading a large dataset to the DB if failures occur.
 9. Load balancer vs. rate Limiter
@@ -19,3 +19,5 @@ Round 2 -  (45 Minutes)
 11. Given a code block, identify the issue and resolution. 
 12. Given an increment-and-get operation using a primitive integer, simultaneously accessed by two threads, the resolution is to use AtomicInteger. 
 13. Explain the Saga Pattern and when to use an orchestrator? 
+14. Weak vs Strong reference, G1GC and ZGC in garbage collection.
+15. Sticky Partitioner in Kafka.
