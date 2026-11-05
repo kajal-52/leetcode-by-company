@@ -1,0 +1,24 @@
+Java Backend Engineer
+------------------ L1 Round --------------------------
+1. Types of indexes
+2. Interface vs. abstract classes
+3. Spring Boot annotations
+4. Spring Boot 4 features
+5. Optional.of() vs. Optional.ofNullable()
+6. Monolithic vs. microservices architecture
+7. Issues with microservices architecture and resolution
+8. AWS migration, Spring Boot changes
+9. NullPointerException handling in code
+10. Multi-level inheritance code
+11. Async CompletableFuture code
+12. Repository annotation and how it works
+13. SQL query for 2nd highest salary 
+14. Code to get employees by dept; all annotations that are required in between for spring boot api
+15. Global Exception handling in spring boot api
+16. Explain the Saga pattern
+17. Resolving latency issues for API in production
+18. Current project architecture
+19. Sleep() method internal working
+
+
+ 
