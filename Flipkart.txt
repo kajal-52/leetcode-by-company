@@ -1,0 +1,9 @@
+Associate Java Tech Lead 
+
+----------------------- L1 Round ------------------- [60 Minutes]
+1. Current project Architecture, Security, authorisation, and Authentication setup.
+2. Difference between ArrayList and LinkedList.
+3. Explain JWT and its implementation.
+4. Coding question - Group Anagrams
+5. SQL question: Get the employee name, ID, and manager name from the Employee Table with id, name, and manager id.
+6. Experience with DB, MySQL version, and project explanation.  
