@@ -12,13 +12,28 @@ Java Backend Engineer
 10. Multi-level inheritance code
 11. Async CompletableFuture code
 12. Repository annotation and how it works
-13. SQL query for 2nd highest salary 
+13. SQL query for the 2nd highest salary 
 14. Code to get employees by dept; all annotations that are required in between for spring boot api
 15. Global Exception handling in spring boot api
 16. Explain the Saga pattern
 17. Resolving latency issues for API in production
 18. Current project architecture
 19. Sleep() method internal working
+
+
+------------Code Pair Round L2 --------------
+Brief introduction and a few questions about experience.
+Given coding questions
+1. Two Sum with duplicate elements; return pairs; cannot use already used elements.
+Input: 1, 2, 4, 6, 2, 3, 4, 1; target = 5
+(1, 4),  (2, 3), (4, 1)
+2. Given an array, return the frequency of each element in the array.
+Input 2,4,5,6,7,4,1,4,5,3,2,5,6,5,4,3,8,9,7,8,9… 
+exp out: 2=2, 4=4, 5=4, 6=2, 7=2,  1=1, 3=2, 8=2, 9=2    
+3. Given an array, bring all 0s to the front of the array and the rest of the elements to the other end.
+Input - 0,2,0,1,4,0 
+Ex. Output = 0, 0, 0, 2, 4, 1
+4. SQL query for the 2nd highest salary 
 
 
  
