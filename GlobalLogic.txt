@@ -5,6 +5,8 @@ Handling race conditions
 Java 17 Features used
 Sealed interfaces
 Builder design pattern, custom builder design pattern
+Fail-fast and fail-safe
+Terminal and intermediate operations
 
 Spring Boot
 1. Creating a custom bean.
@@ -14,7 +16,7 @@ Spring Boot
 
 1. Difference b/w RabbitMQ and Kafka; when should we use which messaging queue?
 2. How to ensure that a consumer reads and processes a Kafka event? 
-3. Explain where you have used it in detail?  Annotations used in the Kafka API.
+3. Explain where you have used it in detail.  Annotations used in the Kafka API.
 
 Code
 1. Group Anagrams
@@ -23,3 +25,4 @@ e.g. ["Apple", "Apricot", "Banana", "Blueberry", "avocado", "Cherry"]
 
 CI/CD tools and usage
 AWS S3 with Spring Boot APIs.
+Experience with MCP
