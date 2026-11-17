@@ -1,0 +1,25 @@
+-------------- L1 Round---------------------60 minutes
+
+Java --
+Handling race conditions
+Java 17 Features used
+Sealed interfaces
+Builder design pattern, custom builder design pattern
+
+Spring Boot
+1. Creating a custom bean.
+2. Bean scopes.
+3. Can we use @Component in place of @Service or @Repository annotations?
+4. Spring Security implementation, handling authentication in production 
+
+1. Difference b/w RabbitMQ and Kafka; when should we use which messaging queue?
+2. How to ensure that a consumer reads and processes a Kafka event? 
+3. Explain where you have used it in detail?  Annotations used in the Kafka API.
+
+Code
+1. Group Anagrams
+2. Using Java Streams APIs, count strings that start with the same alphabet
+e.g. ["Apple", "Apricot", "Banana", "Blueberry", "avocado", "Cherry"]
+
+CI/CD tools and usage
+AWS S3 with Spring Boot APIs.
