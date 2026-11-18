@@ -1,4 +1,4 @@
-Associate Java Tech Lead 
+Lead Java Developer
 
 ----------------------- L1 Round ------------------- [60 Minutes]
 1. Current project Architecture, Security, authorisation, and Authentication setup.
@@ -7,3 +7,14 @@ Associate Java Tech Lead
 4. Coding question - Group Anagrams
 5. SQL question: Get the employee name, ID, and manager name from the Employee Table with id, name, and manager id.
 6. Experience with DB, MySQL version, and project explanation.  
+
+
+-------------------- L2 Round ------------------------- [60 Minutes]
+
+1. Current Project 
+2. Challenge faced in the project and how it was handled.
+3. Java Multithreading implementation in code.
+4. SQL question for the 2nd highest salary.
+5. RANK in SQL
+6. STORED Procedure vs. MySQL Functions
+7. HLD for Rate Limiter.
