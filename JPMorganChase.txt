@@ -1,0 +1,32 @@
+SWE3 - Java Spring Boot
+---------L1- Round----------
+1. Resume and project discussion
+---- Java ----
+2. Volatile, synchronised, and Atomic keywords.
+3. Java 21 Virtual threads, limitations of virtual threads.
+4. ConcurrentHashMap and the internal workings of read and write. Why it does not allow null keys and null values.
+
+Spring 
+1. Scenario when the @Transactional Annotation does not work as expected. 
+2. JWT token validation: how it happens at the API gateway level.
+3. JWT token identifying signature tampering?
+
+Kubernetes 
+1. What are Liveness, Readiness and Startup Probes in a Kubernetes pod?
+
+AI Assistent
+1. Which tools have you used, and how have you used them?
+2. How to overcome hallucinations by the agents.
+3. How would you approach it if you have a story with 8 points to implement in 2 days with assistant help?
+4. What guardrails and security rules would you put in place for an AI assistant used in the financial domain, and why?
+
+Microservices/APIs
+1. How to resolve a production api getting an out-of-memory error?
+2. How to resolve a production api getting an out-of-memory error if the heap looks fine ? What could be the reasons?
+3. Given code where two threads are trying to debit the amount in the payments API, give an implementation to make sure only one thread can perform
+debit as the amount is available enough for one debit? Explain what constraints can be added in the DB?
+4. Explain when multiple pods are running the same code,  maintaining consistency.
+
+Code :-
+Rate Limiter using the Token Bucket algorithm to work in a multithreaded environment. 
+
